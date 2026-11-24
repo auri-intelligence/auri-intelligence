@@ -2,6 +2,8 @@
   <img src="assets/banner.svg" alt="AurI Intelligence" width="100%">
 </p>
 
+<p align="center"><a href="README.it.md">Italiano</a> | <b>English</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
