@@ -58,4 +58,9 @@ Most of these are private for now: the 3310 is the first to go public.
 
 ### Get in touch
 
-Open an issue on any public repo, even just to ask something.
+<p>
+  <a href="https://www.instagram.com/auri.intelligence/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@auri.intelligence"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"></a>
+</p>
+
+Follow the builds on Instagram and TikTok, or open an issue on any public repo, even just to ask something.
