@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <pattern id="px" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="6" fill="#9bbc0f"/>
+      <rect width="5" height="5" fill="#a8c83a"/>
+    </pattern>
+    <linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f2a37"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bezel)"/>
+  <rect x="40" y="36" width="1120" height="228" rx="10" fill="url(#px)"/>
+  <g fill="#1d2b0a" font-family="'Courier New', monospace" font-weight="bold">
+    <text x="80" y="88" font-size="22">&#9646;&#9646;&#9646;&#9647;  Wi-Fi  |  HA online  |  12:00</text>
+    <text x="80" y="160" font-size="64">AURI INTELLIGENCE</text>
+    <text x="80" y="208" font-size="24">Luigi Califano: software, home automation, retro hardware</text>
+    <text x="80" y="244" font-size="20">&gt; ask claude_<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></text>
+  </g>
+  <g fill="#1d2b0a">
+    <rect x="1000" y="190" width="12" height="12"/><rect x="1012" y="190" width="12" height="12"/>
+    <rect x="1024" y="190" width="12" height="12"/><rect x="1036" y="190" width="12" height="12"/>
+    <rect x="1036" y="178" width="12" height="12"/><rect x="1036" y="166" width="12" height="12"/>
+    <rect x="1048" y="166" width="12" height="12"/><rect x="1060" y="166" width="12" height="12"/>
+    <rect x="1096" y="214" width="12" height="12"/>
+  </g>
+</svg>
